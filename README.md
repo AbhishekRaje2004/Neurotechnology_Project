@@ -1,4 +1,4 @@
-# NeurTechnology Project README
+# Neurotechnology Project README
 
 ## Overview
 This project focuses on two key areas:
